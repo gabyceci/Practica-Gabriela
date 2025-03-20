@@ -1,11 +1,5 @@
 const Boton =({titulo})=>{
 
-const estilo={
-    boton: {
-        backgroundColor: 'yellow',
-        color: 'black'
-    }
-}
 
     return(
         <button type="button" 
